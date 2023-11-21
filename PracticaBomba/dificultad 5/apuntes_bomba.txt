@@ -1,0 +1,7 @@
+Bomba numero: 13
+Direcciones de memoria 
+-password 0x6030b0 "JSNhyBVR\n" para el x/i 0x400842 
+-passcode 0x6030ac 5858         para el x/i 4008c5
+-nueva password JSNhybVR
+-nueva passcode 7777
+
