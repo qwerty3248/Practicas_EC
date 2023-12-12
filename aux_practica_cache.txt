@@ -1,0 +1,10 @@
+//comando de compilacion
+
+make
+make clean 
+make (line || size)
+make (line.dat || size.dat)
+make (line.png || size.png)
+
+//o line o size no los dos a la vez 
+
